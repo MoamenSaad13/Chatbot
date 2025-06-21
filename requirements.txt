@@ -10,3 +10,6 @@ python-dotenv
 fastapi
 uvicorn
 pymongo
+transformers
+torch
+gradio
