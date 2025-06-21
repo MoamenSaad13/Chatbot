@@ -1,0 +1,12 @@
+pandas
+faiss-cpu
+google-generativeai
+sentence-transformers
+numpy
+beanie
+motor
+pydantic
+python-dotenv
+fastapi
+uvicorn
+pymongo
